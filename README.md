@@ -26,4 +26,3 @@
     <a href="https://www.linkedin.com/in/auyber-genesini-moura-58b258144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>        
   </div>
   
-  
