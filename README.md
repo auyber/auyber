@@ -1,6 +1,6 @@
 ### E ai! Eu sou o Auyber Genesini Moura
 
-- 🔭 Estou em transição de carreira, da área de Logística para Tecnologia, focando em Desenvolvedor Full Stack, e em aprimorar minhas habilidades em análise de dados e Cibersegurança, visando assim oferecer soluções abrangentes e eficazes no campo da tecnologia.
+- 🔭 Estou em transição de carreira, da área de Logística para Tecnologia, focando em Desenvolvedor Full Stack, e em aprimorar minhas habilidades em análise de dados, visando assim oferecer soluções abrangentes e eficazes no campo da tecnologia.
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas, atualmente focado em HTML, CSS e JAVASCRIPT
 - 👯 Estou procurando projetos para colocar meus conhecimentos em prática
 - 📫 Contate-me no email: auybergm@hotmail.com
