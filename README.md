@@ -6,7 +6,7 @@
 - 📫 Contate-me no email: auybergm@hotmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Sou apaixonado por Animes e Jogos.
-- <a href="http://auybergenesini.com.br" target="_blank">Acesse meu Portifólio</a>
+- <a href="http://auybergenesini.com.br" target="_blank">Acesse meu Portfólio</a>
 <br/>
 <br/>
 
