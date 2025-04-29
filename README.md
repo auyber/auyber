@@ -1,7 +1,7 @@
 ### E ai! Eu sou o Auyber Genesini Moura
 
-- 🔭 Desenvolvedor Full Stack, buscando oferecer soluções abrangentes e eficazes no campo da tecnologia.
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas, atualmente focado em JavaScript FullStack
+- 🔭 Desenvolvedor Web, Webdesigner e E-commerce.
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas.
 - 👯 Sempre buscando e criando projetos para colocar meus conhecimentos em prática
 - 📫 Contate-me no email: auybergm@hotmail.com
 - 😄 Pronouns: ele/dele
