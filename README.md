@@ -1,9 +1,8 @@
 ### E ai! Eu sou o Auyber Genesini Moura
 
 - 🔭 Sou Desenvolvedor Web
-- 🧪 Atualmente direcionando estudos para Quality Assurance (QA)
+- 🧪 Atualmente estudando FullStack JavaScript
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 💡 Tenho aplicado na prática testes manuais, cenários em Gherkin e testes de API com Postman, além de iniciar estudos em automação com Playwright.
 - 💻 Gosto de transformar ideias em projetos e evoluir constantemente na área de tecnologia 
 - 📫 Contate-me no email: auybergm@hotmail.com
 - 😄 Pronouns: ele/dele
